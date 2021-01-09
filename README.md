@@ -1,2 +1,2 @@
-# ArduinoWirelessFan
-A wireless fan using an Arduino Nano, a Bluetooth Module, and an AC relay
+# Universal Bluetooth Switch
+A Bluetooth controlled AC relay which can remotely control any device. 
